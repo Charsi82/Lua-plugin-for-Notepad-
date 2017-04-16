@@ -1,4 +1,4 @@
-# Lua plugin for Notepad++
+# Lua plugin for Notepad++ v 1.5
   
 * Syntax verification of Lua scripts.
  
