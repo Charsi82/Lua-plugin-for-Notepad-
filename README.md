@@ -5,11 +5,10 @@
 * Run the script from the current file.
 * Print result in output console.
 
- Version Lua - **5.2.3**  (http://www.lua.org).
+ Version Lua - **5.3.4**  (http://www.lua.org).
  
  Additional libs:
-	- lfs - ver. 1.6.3 Copyright Kepler Project 2003 (http://www.keplerproject.org/luafilesystem)
-	- marshal - ver. 1.5 Richard Hundt <richardhundt@gmail.com> (https://github.com/richardhundt/lua-marshal)	
+	- lfs - ver. 1.6.3 Copyright Kepler Project 2003 (http://www.keplerproject.org/luafilesystem)	
 
  Changes in Lua:
  - string.format can work with pattren %b for boolean values  
